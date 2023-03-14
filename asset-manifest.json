@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lukemoran01.github.io/markdown-app/static/css/main.e0d1d1f0.css",
+    "main.js": "/lukemoran01.github.io/markdown-app/static/js/main.0c59c516.js",
+    "static/js/787.13b9c3ac.chunk.js": "/lukemoran01.github.io/markdown-app/static/js/787.13b9c3ac.chunk.js",
+    "index.html": "/lukemoran01.github.io/markdown-app/index.html",
+    "main.e0d1d1f0.css.map": "/lukemoran01.github.io/markdown-app/static/css/main.e0d1d1f0.css.map",
+    "main.0c59c516.js.map": "/lukemoran01.github.io/markdown-app/static/js/main.0c59c516.js.map",
+    "787.13b9c3ac.chunk.js.map": "/lukemoran01.github.io/markdown-app/static/js/787.13b9c3ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d1d1f0.css",
+    "static/js/main.0c59c516.js"
+  ]
+}
